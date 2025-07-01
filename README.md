@@ -4,7 +4,7 @@
 Welcome to my personal portfolio website! Built with a modern tech stack and enhanced with 3D animations, this project showcases my work, skills, and contact information in a unique and interactive way.
 
 ## 🌐 Live Preview
-You can view the live site here:
+You can view the live site here: [Click to Visit](https://dhruvsingh-1.github.io/My_Intro/)
 
 ---
 
