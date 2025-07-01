@@ -4,8 +4,7 @@
 Welcome to my personal portfolio website! Built with a modern tech stack and enhanced with 3D animations, this project showcases my work, skills, and contact information in a unique and interactive way.
 
 ## 🌐 Live Preview
-You can view the live site here: [Click to Visit](https://your-deployment-link.vercel.app/)  
-_(Update this link once deployed)_
+You can view the live site here:
 
 ---
 
